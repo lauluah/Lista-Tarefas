@@ -26,6 +26,13 @@ function criaBotaoApagar(li) {
     botaoApagar.innerHTML = 'apagar';
     botaoApagar.setAttribute('class', 'apagar');
     li.appendChild(botaoApagar);
+
+    botaoApagar.style.backgroundColor = 'var(--primary-color'; // Cor de fundo vermelha
+    botaoApagar.style.color = 'white'; 
+    botaoApagar.style.border = 'none'; 
+    botaoApagar.style.padding = '5px 10px'; 
+    botaoApagar.style.borderRadius = '4px'; 
+    botaoApagar.style.cursor = 'pointer'; 
 }
 
 function criaTarefa(textoInput) {  // o textoInput eceberá o valor que está dentro do elemento com a classe input-tarefa.

@@ -8,5 +8,5 @@ Salvar tarefas no armazenamento local do navegador para persistência dos dados.
 
 <h2>Principais Conceitos Abordados:</h2>
 Manipulação do DOM: Utilizada para adicionar, remover e atualizar elementos na página em resposta às ações do usuário.
-Eventos: Utilizados para detectar e responder a interações do usuário, como pressionar uma tecla ou clicar em um botão.
-Armazenamento Local (localStorage): Utilizado para salvar as tarefas do usuário de forma persistente no navegador.
+<br>Eventos: Utilizados para detectar e responder a interações do usuário, como pressionar uma tecla ou clicar em um botão.
+<br>Armazenamento Local (localStorage): Utilizado para salvar as tarefas do usuário de forma persistente no navegador.
